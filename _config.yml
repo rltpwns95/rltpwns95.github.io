@@ -17,7 +17,7 @@ darkmode: false
 # Social links
 twitter_username:
 github_username:  seunghwankk
-# stackoverflow_username: "00000001"
+# stackoverflow_username: 
 # dribbble_username: 
 # facebook_username: 
 # flickr_username: 
@@ -31,9 +31,9 @@ youtube_username:
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: 
+  icon: 
+  url: 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
