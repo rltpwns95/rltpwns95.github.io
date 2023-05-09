@@ -1,15 +1,15 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository: seunghwankk/seunghwankk.github.io
+favicon: images/김승환.jpg
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: 김승환
+title: Embedded Software Developer
+email: tmdghks161952@gmail.com
+website: www.github.com/seunghwankk
 
 # Dark Mode (true/false/never)
 darkmode: false
