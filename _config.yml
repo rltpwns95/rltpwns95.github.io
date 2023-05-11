@@ -45,8 +45,8 @@ github_username:  seunghwankk
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me
-about_profile_image: images/profile.jpg
+about_title: Introduce
+about_profile_image: images/김승환.jpg
 about_content: |
   저는 임베디드 개발자를 지망하는 배차인입니다.<br/>
   코드를 통해 작동하는 원리에 대한 흥미와 호기심을 가지고 개발자를 준비하게 되었습니다.<br/>
@@ -58,33 +58,20 @@ about_content: |
 
 content:
 
-  - title: Certificate # Title for the section
+  - title: 자격 # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      
       - layout: left
-        title: 정보처리산업기사       
-        sub_title: 한국산업인력공단        
-        description: | # this will include new lines to allow paragraphs
-            - 2023.06.09 취득
-
-      - layout: left
-        title: 리눅스마스터 2급       
+        title: 리눅스마스터 2급(필기)      
         sub_title: 한국정보통신진흥협회      
         description: | # this will include new lines to allow paragraphs
-            - 2023.03.31 취득
             
       - layout: left
         title: 운전면허증 1종 보통       
         sub_title: 서울지방경찰청
         description: | # this will include new lines to allow paragraphs
-            - 2018.09.17 취득
-            
-      - layout: left
-        title: 무대예술전문인 기계 3급      
-        sub_title: 문화체육관광부
-        caption: 2015.09.02       
-        description: | # this will include new lines to allow paragraphs
-            - 2015.09.02 취득
+            - 2018.06.18 취득
 
   - title: Project # Title for the section  
     layout: list # Type of content section (list/text)
