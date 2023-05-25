@@ -79,10 +79,19 @@ content:
         title: 자동사고감지 및 알림시스템 <br/> (2023 ICT 융합 프로젝트 공모전)
         sub_title: |
           사용 기술 : <br/>
+            <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+            <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+            <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+            <img src="https://img.shields.io/badge/Anaconda%23-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+            <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+            <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
             <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
             <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
             <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br><br>
-          Jetson nano, OpenCV, Raspberry Pi, Cortex-M4, TCP/IP, Android, Linux, Cmake, MariaDB, C++, C, Python <br/>
+          Jetson nano, OpenCV, Raspberry Pi, TCP/IP, Android, Linux, Cmake, MariaDB, ANACONDA, Jupyter Notebook, spyder, Visual Studio, C++, C, Python <br/>
         caption: 2023.02.20 - 03.31
         description: | # this will include new lines to allow paragraphs
           - jetson nano에서 openCV를 이용한 차선인식
@@ -93,6 +102,9 @@ content:
         title: 스마트 공용 오피스 시스템 분류 <br/> (팀 프로젝트)
         sub_title: |
           사용 기술 : <br/>
+          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+          <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+          <img src = "https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
           C, C++, JAVA, OpenCV, Google Colab, Jetson nano, Raspberry pi, Arduino, Cmake, Cortex-M4, Android
         caption: 2023.04.02 - 04.10
         description: | # this will include new lines to allow paragraphs
