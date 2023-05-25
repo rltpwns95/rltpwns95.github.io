@@ -104,7 +104,7 @@ content:
           사용 기술 : <br/>
           <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
           <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-          <img src = "https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
+          <img src = "https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"><br>
           C, C++, JAVA, OpenCV, Google Colab, Jetson nano, Raspberry pi, Arduino, Cmake, Cortex-M4, Android
         caption: 2023.04.02 - 04.10
         description: | # this will include new lines to allow paragraphs
