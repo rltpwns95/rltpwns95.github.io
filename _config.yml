@@ -83,7 +83,7 @@ content:
             <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
             <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br><br>
           Jetson nano, OpenCV, Raspberry Pi, Cortex-M4, TCP/IP, Android, Linux, Cmake, MariaDB, C++, C, Python <br/>
-        caption: 2023.01.22 - 01.29
+        caption: 2023.02.20 - 03.31
         description: | # this will include new lines to allow paragraphs
           - jetson nano에서 openCV를 이용한 차선인식
           - TCP/IP server 및 client 구현
@@ -94,7 +94,7 @@ content:
         sub_title: |
           사용 기술 : <br/>
           C, C++, JAVA, OpenCV, Google Colab, Jetson nano, Raspberry pi, Arduino, Cmake, Cortex-M4, Android
-        caption: 2023.02.20 - 03.31
+        caption: 2023.04.02 - 04.10
         description: | # this will include new lines to allow paragraphs
           - Raspberry에 서버를 만들어 Arduino, Cortex M4, Android와 통신시스템을 구현
           - Arduino 보드에서 조도 센서와 온습도 센서를 통해 실내 대기 정보를 통해 Cortex M4에 있는 모터들을 제어
@@ -114,7 +114,7 @@ content:
         sub_title: |
           사용 기술 : <br/>
           C, UART, Arduino, PHP, Interrupt <br/>
-        caption: 2023.04.02 - 04.10
+        caption: 2023.02.20 - 03.31
         description: | # this will include new lines to allow paragraphs
           - Arduino 습도, 조도, 부저센서를 사용하여 조도와 습도에 따른 위험알림 
           - Softwareserial 통신을 사용하여 송신부와 수신부의 분리
