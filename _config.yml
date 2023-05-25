@@ -79,6 +79,9 @@ content:
         title: 자동사고감지 및 알림시스템 <br/> (2023 ICT 융합 프로젝트 공모전)
         sub_title: |
           사용 기술 : <br/>
+            <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+            <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br><br>
           Jetson nano, OpenCV, Raspberry Pi, Cortex-M4, TCP/IP, Android, Linux, Cmake, MariaDB, C++, C, Python <br/>
         caption: 2023.01.22 - 01.29
         description: | # this will include new lines to allow paragraphs
