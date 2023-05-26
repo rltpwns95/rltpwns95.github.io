@@ -127,7 +127,7 @@ content:
         sub_title: |
           사용 기술 : <br/>
           C, UART, Arduino, PHP, Interrupt <br/>
-        caption: 2023.02.20 - 03.31
+        caption: 2023.01.22 - 01.29
         description: | # this will include new lines to allow paragraphs
           - Arduino 습도, 조도, 부저센서를 사용하여 조도와 습도에 따른 위험알림 
           - Softwareserial 통신을 사용하여 송신부와 수신부의 분리
